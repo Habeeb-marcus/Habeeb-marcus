@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Habeeb-marcus/Habeeb-marcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+		<img alt="Habeeb's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Habeeb">
+  <br />
+  <img src="https://hits.dwyl.com/roaa94/roaa94.svg?style=flat-square&show=unique" alt="Habeeb's profile views" />
+</p>
 
-Here are some ideas to get you started:
+I'm a Software Engineer and a Flutter mobile Developer. I'm also doing my best to share what I know with articles and talks and enjoying every Fluttering moment 💙!
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
